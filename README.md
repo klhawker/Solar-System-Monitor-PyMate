@@ -7,6 +7,11 @@ IoT to monitor off-grid solar system. I used a raspberry pi 3 A+ to connect to a
 
 This project aims to develop a robust Solar Power Monitoring and Analytics System using Raspberry Pi, MateMXDevice, DHT11 sensor, InfluxDB Cloud, Grafana, and a Telegram Bot for real-time monitoring and alerts.
 
+## Overview
+
+This project embodies an end-to-end Internet of Things (IoT) solution for monitoring an off-grid solar power system. Leveraging a Raspberry Pi 3 A+ as the edge computing device, the system interfaces with an Outback FlexMax 80 charge controller to gather real-time metrics about the solar setup. Data retrieval is facilitated by Telegraf, an agent for collecting and reporting metrics, which then forwards the data to a cloud-based InfluxDB instance. This cloud storage solution not only offers scalability but also ensures data security. To provide a user-friendly interface for real-time analytics and visualization, the stored metrics are displayed through Grafana Cloud. This comprehensive setup offers a robust, secure, and interactive way to monitor various aspects of an off-grid solar system.
+
+
 ## Technologies Used
 
 - Raspberry Pi
