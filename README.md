@@ -13,6 +13,8 @@ For user-friendly, real-time analytics and visualization, the data stored in Inf
 
 This end-to-end system offers a robust, secure, and highly interactive solution for monitoring various aspects of an off-grid solar energy setup, from data acquisition to visualization.
 
+<img width="1440" alt="image" src="https://github.com/klhawker/Solar-System-Monitor-PyMate/assets/52740177/0f816bcb-2ebf-4f66-a6dc-81337051be0c">
+
 
 ## Technologies Used
 
